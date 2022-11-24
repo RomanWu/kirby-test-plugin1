@@ -1,4 +1,4 @@
 <?php
 
 // this is a plugin
-Kirby::plugin('aweschaffhausen/plugin-csv-repl', []);
+Kirby::plugin('RomanWu/kirby-test-plugin1', []);

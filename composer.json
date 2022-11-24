@@ -2,6 +2,7 @@
 	 "name": "RomanWu/kirby-test-plugin1",
 	 "description": "Plugin: CSV Text Ersetzungen",
 	 "version": "1.0.0",
+   "type": "kirby-plugin",
 	 "license": "MIT",
 	 "authors": [
 		  {
