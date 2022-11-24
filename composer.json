@@ -1,0 +1,13 @@
+{
+	 "name": "RomanWu/kirby-test-plugin1",
+	 "description": "Plugin: CSV Text Ersetzungen",
+	 "version": "1.0.0",
+	 "license": "MIT",
+	 "authors": [
+		  {
+				"name": "AWE Schaffhausen GmbH",
+				"email": "info@awe-schaffhausen.ch"
+		  }
+	 ]
+}
+
